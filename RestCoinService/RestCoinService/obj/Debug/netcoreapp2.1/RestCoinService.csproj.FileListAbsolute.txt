@@ -1,0 +1,15 @@
+C:\Source\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.deps.json
+C:\Source\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.json
+C:\Source\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.runtimeconfig.dev.json
+C:\Source\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Source\RestCoinService\RestCoinService\bin\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.csprojAssemblyReference.cache
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.csproj.CoreCompileInputs.cache
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cache
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorAssemblyInfo.cs
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfoInputs.cache
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.AssemblyInfo.cs
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.RazorTargetAssemblyInfo.cache
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.dll
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\RestCoinService.pdb
+C:\Source\RestCoinService\RestCoinService\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
